@@ -31,7 +31,7 @@ Medical foundation models (FMs) have shown tremendous promise amid the rapid adv
 
 
 <p align="center">
-    <img src="fig/fig_arc.pdf" alt="scaling" width="1000">
+    <img src="fig/fig_arc.png" alt="scaling" width="1000">
 </p>
 
 
