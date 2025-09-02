@@ -12,28 +12,27 @@ A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via On
 Repo for "<a href="" target="_blank">A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning</a>"
 </p>
 
+<!--
 ## 🔥 News
 
 - [2025/02] 🔥🔥🔥 Logical reasoning evaluation study of LLMs is accepted by IEEE TKDE!
+--> 
+
 
 ## 📖 Introduction
 
+
+Medical foundation models (FMs) have shown tremendous promise amid the rapid advancements in artificial intelligence (AI) technologies. However, current medical FMs typically generate answers in a black-box manner, lacking transparent reasoning processes and locally grounded interpretability, which hinders their practical clinical deployments. To this end, we introduce DeepMedix-R1, a holistic medical FM for chest X-ray (CXR) interpretation. It leverages a sequential training pipeline: initially fine-tuned on curated CXR instruction data to equip with fundamental CXR interpretation capabilities, then exposed to high-quality synthetic reasoning samples to enable cold-start reasoning, and finally refined via online reinforcement learning to enhance both grounded reasoning quality and generation performance. Thus, the model produces both an answer and reasoning steps tied to the image’s local regions for each query. Quantitative evaluation demonstrates substantial improvements in report generation (e.g., 14.54% and 31.32% over LLaVA-Rad and MedGemma) and visual question answering (e.g., 57.75% and 23.06% over MedGemma and CheXagent) tasks. To facilitate robust assessment, we propose Report Arena, a benchmarking framework using advanced language models to evaluate answer quality, further highlighting the superiority of DeepMedix-R1. Expert review of generated reasoning steps reveals greater interpretability and clinical plausibility compared to established Qwen2.5-VL-7B model (0.7416 vs. 0.2584 overall preference). Collectively, our work advances medical FM development toward holistic, transparent, and clinically actionable modeling for CXR interpretation.
+
+
+
+
+## 🚀 DeepMedix-R1
+
+
 <p align="center">
-    <img src="evaluation.png" alt="scaling" width="400">
+    <img src="fig/fig_arc.pdf" alt="scaling" width="1000">
 </p>
-
-In this paper, in-depth evaluations are conducted on logical reasoning tasks, discussing whether LLMs are really good logical reasons.
-> - First, the logical reasoning evaluations are organized from deductive, inductive, abductive and mixed-form views. We select fifteen logical reasoning datasets to evaluate on three representative LLMs (i.e., text-davinci-003, ChatGPT and BARD) under both zero-shot and few-shot settings.
-> - Second, this paper provides fine-level evaluations on four metrics, covering both objective and subjective views. For problematic cases, extensive error attributions are conducted from two dimensions, forming five error types. It uncovers the logical flaws of LLMs and we provide deep analysis on the results.
-> - Third, to achieve a fair and pure benchmark for logical reasoning capability, we propose a dataset with neutral content, covering deductive, inductive and abductive settings.
-
-
-
-
-## 🚀 NeuLR
-
-
-Considering the current benchmarks may not provide neutral content for fair evaluation, we propose the new dataset ***NeuLR*** to benchmark the neutral-content logical reasoning tasks. In column 1∼3 of the able, we provide the statistics of NeuLR. It contains 3 k samples in total, with ***1 k for deductive reasoning***, ***1 k for inductive reasoning*** and ***1k for abductive reasoning***.
 
 
 
