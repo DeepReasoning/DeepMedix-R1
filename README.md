@@ -3,7 +3,7 @@ A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via On
 </h1>
 
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 50px;">
     <img src="https://www.nus.edu.sg/images/default-source/base/logo.png" alt="NUS" height="50">
     <img src="fig/bupt.png" alt="BUPT" height="50">
     <img src="https://hkust.edu.hk//sites/default/files/2024-04/ust%20logo_c.svg" alt="HKUST" height="50">
@@ -11,26 +11,6 @@ A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via On
     <img src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" alt="NTU" height="50">
     <img src="fig/xjtu.png" alt="XJTU" height="50">
 </div>
-
-
-<p align="center">
-    <img src="https://www.nus.edu.sg/images/default-source/base/logo.png" alt="scaling" height="50">
-</p>
-<p align="center">
-    <img src="fig/bupt.png" alt="scaling" height="50">
-</p>
-<p align="center">
-    <img src="https://hkust.edu.hk//sites/default/files/2024-04/ust%20logo_c.svg" alt="scaling" height="50">
-</p>
-<p align="center">
-    <img src="fig/ic.png" alt="scaling" height="50">
-</p>
-<p align="center">
-    <img src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" alt="scaling" height="50">
-</p>
-<p align="center">
-    <img src="fig/xjtu.png" alt="scaling" height="50">
-</p>
 
 
 <p align="center">
