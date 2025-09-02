@@ -5,10 +5,10 @@ A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via On
 
 <div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 100px;">
     <img src="https://www.nus.edu.sg/images/default-source/base/logo.png" alt="NUS" height="40">&nbsp&nbsp
-    <img src="fig/bupt.png" alt="BUPT" height="50">
-    <img src="https://hkust.edu.hk//sites/default/files/2024-04/ust%20logo_c.svg" alt="HKUST" height="40">
-    <img src="fig/ic.png" alt="IC" height="40">
-    <img src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" alt="NTU" height="40">
+    <img src="fig/bupt.png" alt="BUPT" height="50">&nbsp&nbsp
+    <img src="https://hkust.edu.hk//sites/default/files/2024-04/ust%20logo_c.svg" alt="HKUST" height="40">&nbsp&nbsp
+    <img src="fig/ic.png" alt="IC" height="40">&nbsp&nbsp
+    <img src="https://www.ntu.edu.sg/images/default-source/corporate/ntu_logo.png" alt="NTU" height="40">&nbsp&nbsp
     <img src="fig/xjtu.png" alt="XJTU" height="50">
 </div>
 
