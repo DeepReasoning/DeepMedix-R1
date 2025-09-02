@@ -2,6 +2,13 @@
 A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via Online Reinforcement Learning
 </h1>
 
+
+
+<p align="center">
+    <img src="https://www.nus.edu.sg/images/default-source/base/logo.png" alt="scaling" width="50">
+</p>
+
+
 <p align="center">
   <a href=""><b>[📜 Paper]</b></a> •
   <a href="https://github.com/DeepReasoning/DeepMedix-R1"><b>[🐱 GitHub]</b></a>
