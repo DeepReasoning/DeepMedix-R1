@@ -18,7 +18,7 @@ A Foundation Model for Chest X-ray Interpretation with Grounded Reasoning via On
 <p align="center">
   <a href=""><b>[📜 Paper]</b></a> •
   <a href="https://github.com/DeepReasoning/DeepMedix-R1"><b>[🐱 GitHub]</b></a>
-  
+  <a href="https://huggingface.co/Qika/DeepMedix-R1"><b>[🤖 Model]</b></a>
 </p>
 
 <p align="center">
